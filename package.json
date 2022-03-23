@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node src/app.js"
   },
-  "author": "Amulya",
+  "author": "Syem",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
